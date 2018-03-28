@@ -1,8 +1,8 @@
-Package: com.Auxilium.ezapt
-Name: EzApt
+Package: com.Auxilium.aptme
+Name: AptMe
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Apt-get Update Toggle
+Description: aptme
 Author: Auxilium Development
 Section: Tweaks
 Maintainer: Auxilium Development
